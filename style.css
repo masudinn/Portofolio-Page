@@ -132,13 +132,14 @@ a {
     padding: 30px;
 }
 .header .col-2 {
-    width: 100%;
+    width: 50%;
 }
 .header .col-2  img {
     max-width: 80%;
 }
 .header p {
- margin: 30px auto;
+ margin: 5px ;
+ left: 0%;
 }
 
 /* Skills */
